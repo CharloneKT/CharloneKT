@@ -17,6 +17,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharloneKT&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://www.linkedin.com/in/charlone-knupp-torres/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/charlone-knupp-torres/" target="_blank"><img src="https://github.com/CharloneKT/CharloneKT/blob/8b842dd5085dd1b4d1bc7dd3dd756725f537b69a/images/linkedin-icon.png" target="_blank"></a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charlone-knupp-torres/)](https://www.linkedin.com/in/charlone-knupp-torres/)
