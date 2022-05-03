@@ -22,5 +22,5 @@
 <div>
 <a href="https://www.linkedin.com/in/charlone-knupp-torres/" target="_blank"><img src="https://github.com/CharloneKT/CharloneKT/blob/8b842dd5085dd1b4d1bc7dd3dd756725f537b69a/images/linkedin-icon.png" width="30px" height="30px" target="_blank"></a>
 <a href = "mailto:loneknupp@gmail.com"><img src="https://github.com/CharloneKT/CharloneKT/blob/a0cf17f206841c5e5c4b6cc66ad75a57af646a7a/images/gmail-icon.png" width="30px" height="30px" target="_blank"></a>
+ <a href="https://www.behance.net/charlonknuppt" target="_blank"><img src="https://github.com/CharloneKT/CharloneKT/blob/3ad2dea50af117dcd5d9df5a50c68f3e8a44fa3d/images/behance-icon.png" width="30px" height="30px" target="_blank"></a>
 </div>
-
