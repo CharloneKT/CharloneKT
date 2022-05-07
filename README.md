@@ -5,7 +5,7 @@
 
  
 
-#### Ferramentas.
+#### Linguagens e Ferramentas.
 
 <div>
   <img src="https://github.com/CharloneKT/CharloneKT/blob/1292b9a5973931aef8eb87a25b8939724d191519/images/javascript-icon.png" width="70px" height="70px">
