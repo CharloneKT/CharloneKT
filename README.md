@@ -1,5 +1,7 @@
 <h1>Bem-vindos ao meu perfil. 👋</h1>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharloneKT&layout=compact&langs_count=7&theme=dracula" width="380" height="190"/>
+
 #### Linguagens e Ferramentas.
 
 <div>
@@ -12,8 +14,7 @@
   <img src="https://github.com/CharloneKT/CharloneKT/blob/1292b9a5973931aef8eb87a25b8939724d191519/images/vscode-icon.png" width="70px" height="70px">
 </div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharloneKT&layout=compact&langs_count=7&theme=dracula" width="380" height="190"/>
-
+###
 <div>
   <a href="https://www.linkedin.com/in/charlone-knupp-torres/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
