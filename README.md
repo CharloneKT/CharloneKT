@@ -1,5 +1,4 @@
 
-##### 🚧 Em construção.
 <h1>Bem-vindos ao meu perfil. 👋</h1>
 
 
