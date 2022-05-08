@@ -16,7 +16,7 @@
 
 #
 <div>
-<a href="https://www.linkedin.com/in/charlone-knupp-torres/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href ="mailto:loneknupp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/charlone-knupp-torres/"><img src="https://img.shields.io/badge/-LinkedIn-004088?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0099E5" target="_blank"></a>
+<a href ="mailto:loneknupp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7c7c7c" target="_blank"></a>
 <a href="https://www.behance.net/charlonknuppt"><img src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white&labelColor=000" target="_blank"></a>
 </div>
