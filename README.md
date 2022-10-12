@@ -16,3 +16,5 @@
 <a href ="mailto:loneknupp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-1c1c1c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1c1c" target="_blank"></a>
 <a href="https://www.behance.net/charloneknupp"><img src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white&labelColor=1769FF" target="_blank"></a>
 </div>
+
+ ![Snake animation](https://github.com/CharloneKT/CharloneKT/blob/output/github-contribution-grid-snake.svg)
