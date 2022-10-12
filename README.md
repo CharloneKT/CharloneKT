@@ -2,16 +2,12 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharloneKT&layout=compact&langs_count=7&theme=dracula" width="380" height="190"/>
 
-<h2>Linguagens e Ferramentas.</h2>
+<h2>Linguagens</h2>
 
 <div>
-  <img src="https://github.com/CharloneKT/CharloneKT/blob/1292b9a5973931aef8eb87a25b8939724d191519/images/javascript-icon.png" width="60px" height="60px">
-  <img src="https://github.com/CharloneKT/CharloneKT/blob/1292b9a5973931aef8eb87a25b8939724d191519/images/css-icon.png" width="60px" height="60px">
-  <img src="https://github.com/CharloneKT/CharloneKT/blob/1292b9a5973931aef8eb87a25b8939724d191519/images/html5-icon.png" width="60px" height="60px">
-  <img src="https://github.com/CharloneKT/CharloneKT/blob/1292b9a5973931aef8eb87a25b8939724d191519/images/git-icon.png" width="60px" height="60px">
-  <img src="https://github.com/CharloneKT/CharloneKT/blob/1292b9a5973931aef8eb87a25b8939724d191519/images/github-icon.png" width="60px" height="60px">
-  <img src="https://github.com/CharloneKT/CharloneKT/blob/1292b9a5973931aef8eb87a25b8939724d191519/images/photoshop-icon.png" width="60px" height="60px">
-  <img src="https://github.com/CharloneKT/CharloneKT/blob/1292b9a5973931aef8eb87a25b8939724d191519/images/vscode-icon.png" width="60px" height="60px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" height="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" height="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" height="50px"/>
 </div>
 
 #
