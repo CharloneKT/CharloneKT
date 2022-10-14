@@ -13,7 +13,7 @@
 #
 <div>
 <a href="https://www.linkedin.com/in/charlone-knupp-torres/"><img src="https://img.shields.io/badge/-LinkedIn-0099E5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-<a href="mailto:loneknupp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<a href="mailto:loneknupp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-db4a39?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <a href="https://www.behance.net/charloneknupp"><img src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
 </div>
 
